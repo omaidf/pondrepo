@@ -312,9 +312,9 @@
     },
     {
       "name": "Pond",
-      "address": "0xf52fCB058887d2ee561cfd5512A6B8A57B4FDA97",
+      "address": "0x26AA272c919AcFf6E9cBA444294599c5ec0Bcd39",
       "symbol": "POND",
-      "decimals": 5,
+      "decimals": 18,
       "chainId": 122,
       "logoURI": "https://i.imgur.com/ZA95uZD.png"
     },
